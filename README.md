@@ -1,5 +1,3 @@
-# Nova-Retail-Analysis
-
 # Nova Retail Group — Sales Performance Analysis
 
 ## Project Overview
@@ -150,7 +148,7 @@ nova-retail-group-analysis/
 BSc Mathematical Sciences — Sefako Makgatho Health Sciences University
 Witle Academy Data Analytics Bootcamp
 📍 Pretoria, South Africa
-🔗 [LinkedIn](#) | 🌐 [Portfolio](#)
+🔗 [LinkedIn](www.linkedin.com/in/lawrence-makhafola-8b0075249) | 🌐 [GitHub Portfolio](https://github.com/lawrencegivenchy) | [Personal Website](https://lawrence-makhafola.vercel.app/#home)
 
 ---
 
